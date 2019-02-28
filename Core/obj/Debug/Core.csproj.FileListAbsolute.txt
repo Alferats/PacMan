@@ -1,0 +1,11 @@
+Z:\db\PacMan\Core\bin\Debug\Core.dll
+Z:\db\PacMan\Core\bin\Debug\Core.pdb
+Z:\db\PacMan\Core\obj\Debug\Core.csprojAssemblyReference.cache
+Z:\db\PacMan\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+Z:\db\PacMan\Core\obj\Debug\Core.dll
+Z:\db\PacMan\Core\obj\Debug\Core.pdb
+D:\db\PacMan\Core\bin\Debug\Core.dll
+D:\db\PacMan\Core\bin\Debug\Core.pdb
+D:\db\PacMan\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\db\PacMan\Core\obj\Debug\Core.dll
+D:\db\PacMan\Core\obj\Debug\Core.pdb

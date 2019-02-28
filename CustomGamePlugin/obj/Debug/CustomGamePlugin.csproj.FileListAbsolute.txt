@@ -1,0 +1,15 @@
+Z:\db\PacMan\CustomGamePlugin\bin\Debug\CustomGamePlugin.dll
+Z:\db\PacMan\CustomGamePlugin\bin\Debug\CustomGamePlugin.pdb
+Z:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.csproj.CoreCompileInputs.cache
+Z:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.dll
+Z:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.pdb
+Z:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.csprojAssemblyReference.cache
+D:\db\PacMan\CustomGamePlugin\bin\Debug\CustomGamePlugin.dll
+D:\db\PacMan\CustomGamePlugin\bin\Debug\CustomGamePlugin.pdb
+D:\db\PacMan\CustomGamePlugin\bin\Debug\Core.dll
+D:\db\PacMan\CustomGamePlugin\bin\Debug\Core.pdb
+D:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.csprojAssemblyReference.cache
+D:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.csproj.CoreCompileInputs.cache
+D:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.csproj.CopyComplete
+D:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.dll
+D:\db\PacMan\CustomGamePlugin\obj\Debug\CustomGamePlugin.pdb
